@@ -1,4 +1,4 @@
-# Bi-LSTM-NER
+# Bi-LSTM model for Chinese NER
 
 1. Unzip the 'train1.rar' file in './data/' folder.
 2. Run 'train.py' to train the model.
